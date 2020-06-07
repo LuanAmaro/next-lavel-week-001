@@ -1,16 +1,8 @@
-# ecoleta
+# Next Lavel Week 001
+## Project Ecoleta ♻️
 
-<!-- {
-		"name": "Iguatemi",
-    "email": "contato@iguatemi.com",
-    "whatsapp": "892734092837",
-    "latitude": -3.7557467,
-    "longitude": -38.4887117,
-    "city": "Fortaleza",
-    "uf": "CE",
-		"items": [
-			1,
-			2,
-			6
-		]
-} -->
+List project 📚
+
+- NodeJs - [Back-end](https://github.com/LuanAmaro/next-lavel-week-001/tree/master/server)
+- ReactJs - [Front-end](https://github.com/LuanAmaro/next-lavel-week-001/tree/master/web)
+- React Native - [Mobile](https://github.com/LuanAmaro/next-lavel-week-001/tree/master/mobile)
